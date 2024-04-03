@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -91,5 +93,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ALiersEL/ALiersEL/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2024 15:05:44 UTC
+ Last Updated on 03/04/2024 15:09:57 UTC
 <!--END_SECTION:waka-->
