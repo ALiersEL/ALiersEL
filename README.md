@@ -30,18 +30,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+吴恩达深度学习作业                2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2024 15:12:52 UTC
+ Last Updated on 09/06/2024 15:13:11 UTC
 <!--END_SECTION:waka-->
