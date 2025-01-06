@@ -30,18 +30,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-conn2res                 4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/05/2025 15:11:18 UTC
+ Last Updated on 01/06/2025 15:13:27 UTC
 <!--END_SECTION:waka-->
