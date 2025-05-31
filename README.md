@@ -30,20 +30,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Python                   15 mins             █████████████████████████   99.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CLIP-fine-tune           15 mins             █████████████████████████   99.00 % 
-WallMaria                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/30/2025 15:14:32 UTC
+ Last Updated on 05/31/2025 15:13:05 UTC
 <!--END_SECTION:waka-->
