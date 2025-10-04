@@ -16,6 +16,32 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 10/03/2025 15:14:12 UTC
+```text
+🌞 Morning                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+🌆 Daytime                87 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌃 Evening                170 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
+🌙 Night                  205 commits         ██████████░░░░░░░░░░░░░░░   38.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 10/04/2025 15:11:53 UTC
 <!--END_SECTION:waka-->
